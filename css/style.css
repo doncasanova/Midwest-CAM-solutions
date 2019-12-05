@@ -125,7 +125,7 @@ a:hover {
 }
 
 .slider img {
-    width: 100%;
+    width: 50%;
 }
 
 #carousel-slider {
@@ -196,14 +196,14 @@ a:hover {
 	color: #fff;
 }
 
-.carousel-caption  p {
-	font-size:30px;
-	margin-top:30px;
-	margin-bottom:20px;
-	color:#fff;
-	padding:10px;
-	background:#1F5092;
-}
+    .carousel-caption p {
+        font-size: 20px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        color: #fff;
+        padding: 10px;
+        background-color: rgba(51,80,220,0.5);
+    }
 
 @media (max-width: 767px) {
     .carousel-caption  {
